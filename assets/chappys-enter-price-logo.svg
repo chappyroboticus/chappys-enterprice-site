@@ -1,0 +1,18 @@
+<svg width="840" height="220" viewBox="0 0 840 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chappy's Enter Price logo</title>
+  <desc id="desc">A sharp premium automotive wordmark with a shield, road line and star detail.</desc>
+  <rect width="840" height="220" fill="#0B0D10"/>
+  <g transform="translate(54 34)">
+    <path d="M72 0L144 26V83C144 119 119 146 72 164C25 146 0 119 0 83V26L72 0Z" fill="#F4F0E8"/>
+    <path d="M72 13L131 34V83C131 111 112 132 72 148C32 132 13 111 13 83V34L72 13Z" fill="#0B0D10"/>
+    <path d="M29 91C47 70 97 70 115 91" stroke="#F4F0E8" stroke-width="9" stroke-linecap="square"/>
+    <path d="M43 98H101" stroke="#C8A45D" stroke-width="7" stroke-linecap="square"/>
+    <path d="M70 42L77 59L95 60L81 72L85 90L70 80L55 90L59 72L45 60L63 59L70 42Z" fill="#C8A45D"/>
+  </g>
+  <g transform="translate(238 51)">
+    <text x="0" y="55" font-family="DM Sans, Inter, Arial, sans-serif" font-size="54" font-weight="900" letter-spacing="-2" fill="#F4F0E8">CHAPPY’S</text>
+    <text x="0" y="112" font-family="DM Sans, Inter, Arial, sans-serif" font-size="48" font-weight="300" letter-spacing="9" fill="#F4F0E8">ENTER PRICE</text>
+    <path d="M3 132H505" stroke="#C8A45D" stroke-width="5"/>
+    <text x="0" y="160" font-family="DM Sans, Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#A9B0BB">CAR STORIES · CARTIFACTS</text>
+  </g>
+</svg>
